@@ -1,7 +1,7 @@
 {
     "name": "taskmanager",
     "version": "0.1.0",
-    "homepage": "https://Pugazhprince.github.io/React_Task_Manager",
+    "homepage": "https://Pugazhprince.github.io/React-Task-Manger",
     "private": true,
     "dependencies": {
         "react": "^18.2.0",
